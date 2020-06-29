@@ -5,20 +5,27 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Vad finns det i skafferiet? "
+[Languages.se]
+contentDir = "content/swedish"
+copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
+home = "Hem"
+languageCode = "se-se"
+languageName = "Se"
+weight = 1
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = 2
 [Languages.fr]
 contentDir = "content/french"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = 2
+weight = 3
 [[menu.main]]
 URL = "about"
 name = "about"
