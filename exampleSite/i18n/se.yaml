@@ -1,20 +1,20 @@
 ---
 - id: blogTitle
-  translation: Latest Post
+  translation: Senaste bloggpost
 - id: readMore
-  translation: Read more
+  translation: Se mera
 - id: viewAllPost
-  translation: View All Post
+  translation: Se alla bloggposter
 - id: share
-  translation: Share
+  translation: Dela
 - id: aboutAuthor
-  translation: About author
+  translation: Om Vad finns det i skafferiet
 - id: authorsPosts
-  translation: Author's posts
+  translation: Vad finns det i skafferiets bloggposter
 - id: all
-  translation: All
+  translation: Alla
 - id: about
-  translation: About Us
+  translation: Om
 - id: services
   translation: Service
 - id: portfolio
@@ -24,8 +24,8 @@
 - id: pricing
   translation: Pricing
 - id: blog
-  translation: Blog
+  translation: Blogg
 - id: contact
-  translation: Contact
+  translation: Kontakt
 - id: themefisher
   translation: Themefisher
