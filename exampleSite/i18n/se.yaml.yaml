@@ -12,9 +12,9 @@
 - id: authorsPosts
   translation: Author's posts
 - id: all
-  translation: All
+  translation: Alla
 - id: about
-  translation: About Us
+  translation: Om
 - id: services
   translation: Service
 - id: portfolio
@@ -24,8 +24,8 @@
 - id: pricing
   translation: Pricing
 - id: blog
-  translation: Blog
+  translation: Blogg
 - id: contact
-  translation: Contact
+  translation: Kontakt
 - id: themefisher
   translation: Themefisher
