@@ -1,4 +1,4 @@
-baseURL = "https://vadfinnsdetiskafferiet.netlify.com"
+baseURL = "https://vadfinnsdetiskafferiet.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
