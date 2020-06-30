@@ -1,5 +1,6 @@
 baseURL = "https://vadfinnsdetiskafferiet.netlify.app"
-disableLanguages = ["en"]
+DefaultContentLanguage = "se"
+disableLanguages = ["en","fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
