@@ -1,6 +1,6 @@
-baseURL = "https://vadfinnsdetiskafferiet.netlify.app"
 DefaultContentLanguage = "se"
-disableLanguages = ["en","fr"]
+baseURL = "https://vadfinnsdetiskafferiet.netlify.app"
+disableLanguages = ["en", "fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -27,6 +27,8 @@ home = "Hem"
 languageCode = "se-se"
 languageName = "Se"
 weight = 1
+[menu]
+static = []
 [[menu.main]]
 URL = "blog"
 name = "blog"
@@ -36,29 +38,9 @@ URL = "about"
 name = "about"
 weight = 1
 [[menu.main]]
-URL = "services"
-name = "services"
-weight = 2
-[[menu.main]]
-URL = "portfolio"
-name = "portfolio"
-weight = 3
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 4
-[[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = 5
-[[menu.main]]
 URL = "contact"
 name = "contact"
 weight = 7
-[[menu.static]]
-URL = "https://themefisher.com/"
-name = "themefisher"
-weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
