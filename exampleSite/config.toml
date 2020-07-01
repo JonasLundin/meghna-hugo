@@ -22,7 +22,7 @@ languageName = "Fr"
 weight = 3
 [Languages.se]
 contentDir = "content/swedish"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
+copyright = ""
 home = "Hem"
 languageCode = "se-se"
 languageName = "Se"
