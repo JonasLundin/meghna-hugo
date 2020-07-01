@@ -39,7 +39,7 @@ weight = 1
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = "UA-171263597-1"
-logo = "images/logo.png"
+logo = "images/logo-skafferiet.png"
 post_share = true
 [params.map]
 enable = false
@@ -73,7 +73,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/logo-skafferiet.png"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
