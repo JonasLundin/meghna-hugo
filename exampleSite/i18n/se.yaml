@@ -1,6 +1,6 @@
 ---
 - id: blogTitle
-  translation: Senaste bloggpost
+  translation: Senaste inlägg
 - id: readMore
   translation: Se mera
 - id: viewAllPost
