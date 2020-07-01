@@ -28,10 +28,6 @@ languageCode = "se-se"
 languageName = "Se"
 weight = 1
 [[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 3
-[[menu.main]]
 URL = "blog"
 name = "blog"
 weight = 2
